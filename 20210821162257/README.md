@@ -3,7 +3,7 @@
 By default, XMonad's documentation and most tutorials about installing
 XMonad and configuring it make use of the `~/.xmonad` directory for config files.
 
-Doing this does not conform to the [XDG Base Directoy Specification] set by
+Doing this does not conform to the [XDG Base Directoy Specification][1] set by
 freedesktop.org.
 
 However, since version `0.15`, XMonad does support the specification, but
@@ -17,8 +17,9 @@ Therefore, creating both these directories manually, especially the
 second one when setting up XMonad is necessary if it is desired that it
 conform to the guidelines. 
 
-References: 
-<https://github.com/xmonad/xmonad/issues/148#issuecomment-422563425>
-<https://wiki.archlinux.org/title/XDG_Base_Directory#Support>
+#### References: 
 
-[XDG Base Directory Specification]: <https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html>
+- <https://github.com/xmonad/xmonad/issues/148#issuecomment-422563425>
+- <https://wiki.archlinux.org/title/XDG_Base_Directory#Support>
+
+[1]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
