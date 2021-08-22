@@ -11,8 +11,8 @@ sourced.
 |`~/.bash_login`  |x  |yes|x  |yes|x  |x  |x  |x  |only if `~/.bash_profile` is not found                         |
 |`~./profile`     |x  |yes|x  |yes|x  |yes|x  |yes|only if none of `~/.bash_profile` and `~./bash_login` are found|
 |`~/.bashrc`      |yes|yes|yes|yes|x  |x  |x  |x  |-                                                              |
-|`BASHENV`        |yes|yes|x  |x  |x  |x  |x  |x  |`BASHENV` cannot use `PATH`                                    |
-|`ENV `           |x  |x  |x  |x  |x  |x  |yes|yes|`ENV` cannot use `PATH`                                        |
+|`BASHENV`        |yes|yes|x  |x  |x  |x  |x  |x  |`BASHENV` cannot use `PATH` while expansion                    |
+|`ENV `           |x  |x  |x  |x  |x  |x  |yes|yes|`ENV` cannot use `PATH` while expansion                        |
 |`~/.bash_logout` |x  |yes|x  |yes|x  |x  |x  |x  |only when exiting                                              |
 
 `L` means *login-shell*, `I` means *interactive shell* and `S` means *stared as
