@@ -7,8 +7,8 @@ time settings from the command-line in linux (or at least in arch linux)
 
 Description from the *`systemd` man page*:
 
-  `timedatectl` may be used to query and change the system clock and its
-  settings, and enable or disable time synchronization services.
+>  `timedatectl` may be used to query and change the system clock and its
+>  settings, and enable or disable time synchronization services.
 
 To check time information:
 
@@ -16,15 +16,17 @@ To check time information:
 timedatectl status
 ```
 
-**output**
+*output*:
 
-                 Local time: Mon 2021-09-06 08:29:05 IST
-             Universal time: Mon 2021-09-06 02:59:05 UTC
-                   RTC time: Mon 2021-09-06 02:59:05
-                  Time zone: Asia/Kolkata (IST, +0530)
-  System clock synchronized: yes
-                NTP service: active
-            RTC in local TZ: no
+> ```           
+>               Local time: Mon 2021-09-06 08:29:05 IST
+>           Universal time: Mon 2021-09-06 02:59:05 UTC
+>                 RTC time: Mon 2021-09-06 02:59:05
+>                Time zone: Asia/Kolkata (IST, +0530)
+> System clock synchronized: yes
+>              NTP service: active
+>          RTC in local TZ: no
+> ```         
 
 
 To set the time manually:
