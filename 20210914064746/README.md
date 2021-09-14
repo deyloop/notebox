@@ -19,11 +19,11 @@ The `gpg` tool needs to be installed.
 1. Select a passphrase.
 1. Upload the key to public key servers
 
-      gpg --send-keys <key-id>
+       gpg --send-keys <key-id>
 
    where you can get your key id using
    
-      gpg --list-keys
+       gpg --list-keys
 
 
 References:
