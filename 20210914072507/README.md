@@ -12,18 +12,18 @@ Where `<key-id>` must be the id of the key being used.
 
 After this, there are three ways to make git sign commits:
 1. Add the `-S` flag on the commits you want to sign:
-   ```sh
-   git commit -a -S -m "Commit Message, That is signed"
-   ```
+   
+       git commit -a -S -m "Commit Message, That is signed"
+  
 1. Configure `git` to sign all commits automatically for a particular repo
-   ```sh
-   cd path/to/repo/needing/auto/signs
-   git config commit.gpgsign true
-   ```
+   
+       cd path/to/repo/needing/auto/signs
+       git config commit.gpgsign true
+  
 1. Configure `git` to sign all commits on all repos
-   ```sh
-   git config --global commit.gpgsign true
-   ```
+   
+       git config --global commit.gpgsign true
+   
 Adding the key to the remote repo host (Github, Gitlab) is also recomended.
 
 References:
