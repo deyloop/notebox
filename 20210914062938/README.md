@@ -12,7 +12,8 @@ It can be used for the following purposes:
 
 Commonly used utilities for managing `PGP` keys is `gpg`.
 How To:
-* Create a GPG key pair [20210914064746](./../20210914064746/README.md)
+* Create a GPG key pair [20210914064746](./20210914064746/README.md)
+* Sign git commits with GPG [20210914072507](./20210914072507/README.md)
 
 
 References:
