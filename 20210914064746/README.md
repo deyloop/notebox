@@ -3,9 +3,9 @@
 The `gpg` tool needs to be installed.
 
 1. Generate GPG key pair.
-   ```sh
-   gpg --full-generate-key
-   ```
+
+       gpg --full-generate-key
+
 1. Specify the kind of key
 1. Specify key size. (Github mandates higher than 4096 bits)
 1. Enter length of validity. (2y is a good one)
@@ -18,13 +18,13 @@ The `gpg` tool needs to be installed.
 1. Enter identifying information like name, email and comment.
 1. Select a passphrase.
 1. Upload the key to public key servers
-   ```sh
-   gpg --send-keys <key-id>
-   ```
+
+      gpg --send-keys <key-id>
+
    where you can get your key id using
-   ```sh
-   gpg --list-keys
-   ```
+   
+      gpg --list-keys
+
 
 References:
 * <https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/generating-a-new-gpg-key>
