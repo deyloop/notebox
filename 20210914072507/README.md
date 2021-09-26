@@ -1,6 +1,6 @@
 # Sign git commits with GPG
 
-Signing git commits give members of the team you are working with and others depending on the software you write the confidence that the code being committed is indeed written by you and not an imposter.
+Signing git commits gives members of the team you are working with and others depending on the software you write the confidence that the code being committed is indeed written by you and not an imposter.
 
 After [Creating a GPG key pair][1], `git` can be configured to use the generated key to sign commits and tags, like this:
 
