@@ -12,9 +12,9 @@ Hopefully this repo eventually reflects all my knowledge and acts as a second br
 It's convenient to work with this repo with the `nb` tool (see related below) 
 that I created.
 
-* Related:
+Related:
   
-  - `nb` tool: <https://github.com/deyloop/dot/blob/main/scripts/nb>
+  * `nb` tool: <https://github.com/deyloop/dot/blob/main/scripts/nb>
 
 
 
