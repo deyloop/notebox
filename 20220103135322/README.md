@@ -27,3 +27,8 @@ ssh othermachine gpg --export-secret-key SOMEKEYID | gpg --import
 Reference:
 
 * StackOverflow - encryption - How to transfer pgp private key to another computer? <https://stackoverflow.com/questions/3174537/how-to-transfer-pgp-private-key-to-another-computer>
+
+
+Tags:
+
+    #literature-note #pgp #encryption #security
