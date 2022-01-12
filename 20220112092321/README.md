@@ -20,4 +20,8 @@ Usually, `stdin` and `stdout` can be redirected to any file descriptor
 of choosing when invoking the tool, hence support of `stdin` and `stout` 
 IO schemes is enough to support IO with any device/file.
 
+Tags:
+
+    #literature-note #unix #io
+
 
