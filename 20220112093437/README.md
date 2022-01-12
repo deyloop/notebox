@@ -8,6 +8,12 @@ in some way and outputs the transformed contents into `stdout`.
   selecting text, running it through a filter and replacing the selected 
   text with the output. (`vi` and `vim`, even `emacs`, etc)
 
+Filters are of two types:
+
+* Line filters - program transforms the input line by line
+* file filters - program transforms the whole input received via `stdin` 
+  at once
+
 Related:
 
 * Unix Filter IO Scheme <../20220112093437/README.md>
