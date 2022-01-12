@@ -51,8 +51,8 @@ __file_filter() {
 
 Related:
 
-* CLI IO Schemes/Methods: <../20220112092321/README.md>
-* Unix Filter IO Scheme: <../20220112093437/README.md>
+* [20220112092321](../20220112092321/README.md) CLI IO Schemes/Methods
+* [20220112093437](../20220112093437/README.md) Unix Filter IO Scheme 
 
 
 References:
