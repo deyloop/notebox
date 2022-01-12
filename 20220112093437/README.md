@@ -11,7 +11,7 @@ in some way and outputs the transformed contents into `stdout`.
 Filters are of two types:
 
 * Line filters - program transforms the input line by line
-* file filters - program transforms the whole input received via `stdin` 
+* File filters - program transforms the whole input received via `stdin` 
   at once
 
 Related:
