@@ -18,3 +18,8 @@ Related:
 
 * Unix Filter IO Scheme <../20220112093437/README.md>
 * What is a UNIX/Linux Filter - by rwxrob: <https://github.com/rwxrob/zet/blob/e2ab6dbfdc73d54d3aef1634fa659d29d609b1c1/20210809223847/README.md>
+
+
+Tags:
+
+    #literature-note #unix #cli
