@@ -1,7 +1,7 @@
 # How I Remap my Keys
 
 * `CAPSLOCK` is `Left-Ctrl`
-* `Left-Ctrl` (and my substitution `CAPSLOCK`) is `Esc` when tapped, `Ctrl`
+* `Left-Ctrl` (and my substitution `CAPSLOCK`) is `Esc` when tapped, but `Ctrl`
   when pressed with other keys. (`Ctrl+A`, for example)
 
 This is achieved using the following commands, which are run on startup.
