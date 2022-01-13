@@ -1,21 +1,26 @@
 # Increase timeout for GPG passphrase cache
 
 * GPG agents require a passphrase to unlock gpg signatures. This passphrase is
-  cached for  subsequent signings. This cache has a timeout / ttl.
-* By default this ttl is around 5 minutes. This can be annoying if you [sign
-  your git commits][1] and make many small commits throughout the day, as you
-  will be required to enter the passphrase every so often.
+  cached for  subsequent signings. This cache has a timeout / TTL.
+* By default this TTL is around 10 minutes of no GnuPG activity (resets if you
+  use it), and a max TTL of 2 hours. This can be annoying if you [sign your git
+  commits][1] and make many small commits throughout the day, as you will be
+  required to enter the passphrase every so often.
 
-The cache ttl can be set in `~/.gnupg/gpg-agent.conf`:
+The cache TTL can be set in `~/.gnupg/gpg-agent.conf`:
 
 ```
 default-cache-ttl 34560000
 max-cache-ttl 34560000
 ```
 
-> ⚠️ Take caution on setting a ttl that is too long if you are in a shared
+The values are in seconds. This sets both TTLs to 400 days (just over a year)
+
+> ⚠️ Take caution on setting a TTL that is too long if you are in a shared
 > system or are in an area where you suspect someone might snoop on your
 > computer.
+
+I personally use values of 6hrs and 1 Day for both of these respectively.
 
 [1]: ../20210914072507/README.md
 
