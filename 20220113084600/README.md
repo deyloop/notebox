@@ -74,8 +74,14 @@ From `man bash`:
 > in generating the matches.
 
 
-The `command` can read these environment variables to output a list of newline delimited completion candidates to `stdout`.
+The `command` can read these environment variables to output a list of newline
+delimited completion candidates to `stdout`.
 
+
+Related:
+
+* [20220113092454](../20220113092454/README.md) Tab Completion for Bash Script
+  Sub-Commands
 
 References:
 
