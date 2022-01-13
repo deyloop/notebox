@@ -22,42 +22,26 @@ When TAB is pressed while entering the arguments to `name`, the partially typed
 arguments are put in and environment variable called `COMP_LINE`, along with
 several other completion related variables:
  
-* COMP_CWORD: An index into \${COMP_WORDS} of the word containing the current
-  cursor posi‐ tion.  This variable is available only in shell functions
-  invoked  by  the programmable completion facilities (see Programmable
-  Completion below).
-       
-* COMP_KEY: The key (or final key of a key sequence) used to invoke the current
-  comple‐ tion function.
+* `COMP_CWORD`: An index into `${COMP_WORDS}` of the word containing the current
+  cursor position.         
 
-* COMP_LINE: The current command line.  This variable is available only in
-  shell  func‐ tions  and external commands invoked by the programmable
-  completion facili‐ ties (see Programmable Completion below).
+* `COMP_KEY`: The key (or final key of a key sequence) used to invoke the current
+  completion function.
 
-* COMP_POINT: The index of the current cursor position relative to the beginning
-  of  the current  command.  If the current cursor position is at the end of
-  the cur‐ rent command, the value of this variable is equal to  \${#COMP_LINE}.
-  This variable is available only in shell functions and external commands
-  invoked by the programmable completion facilities (see Programmable
-  Completion  be‐ low).
+* `COMP_LINE`: The current command line.  
 
-* COMP_TYPE: Set  to  an integer value corresponding to the type of completion
-  attempted that caused a completion function to be called: TAB, for normal
-  completion, ?,  for  listing completions after successive tabs, !, for
-  listing alterna‐ tives on partial word completion, @, to list completions if
-  the word is not unmodified,  or %, for menu completion.  This variable is
-  available only in shell functions and external commands invoked by the
-  programmable  comple‐ tion facilities (see Programmable Completion below).
+* `COMP_POINT`: The index of the current cursor position relative to the beginning
+  of  the current command. If the current cursor position is at the end of
+  the current command, the value of this variable is equal to `${#COMP_LINE}`.
 
-* COMP_WORDBREAKS: The  set  of characters that the readline library treats as
-  word separators when performing word completion.  If COMP_WORDBREAKS is
+* `COMP_WORDBREAKS`: The set of characters that the `readline` library treats as
+  word separators when performing word completion. If `COMP_WORDBREAKS` is
   unset, it loses its special properties, even if it is subsequently reset.
 
-* COMP_WORDS: An  array variable (see Arrays below) consisting of the individual
-  words in the current command line.  The line is split into words as  readline
-  would split  it,  using  COMP_WORDBREAKS  as  described  above.  This
-  variable is available only in shell functions invoked by  the  programmable
-  completion facilities (see Programmable Completion below).
+* `COMP_WORDS`: An array variable (see Arrays below) consisting of the individual
+  words in the current command line.  The line is split into words as `readline`
+  would split it, using  `COMP_WORDBREAKS` as described above.
+
 
 From `man bash`:
 
