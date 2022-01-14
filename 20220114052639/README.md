@@ -13,11 +13,14 @@ cd ws*.host.com/[Yy]es.*
 
 * They are also known as **Glob Patterns**
 
+[1]: ../20220114053301/README.md "Bash Case Statement"
 [2]: ../20220113165346/README.md "Types of Regular Expression Languages"
 
 Related:
 
+
 * [20220113165346](../20220113165346/README.md) Types of Regular Expression Languages
+* [20220114053301](../20220114053301/README.md) Bash Case Statement
 
 
 Tags:
