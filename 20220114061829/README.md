@@ -28,6 +28,11 @@ parenthesis.
 > Adding a trailing comma will make the result of the function call be
 wrapped in a tuple instead
 
+An auto-formatter like [`black`][1] would do this automatically.
+
+
+[1]: https://pypi.org/project/black/
+
 Tags:
 
     #literature-notes #tips #clean-code #python
