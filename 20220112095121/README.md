@@ -48,11 +48,13 @@ __file_filter() {
 }
 ```
 
+* Adding these filter mechanisms to an existing command is like using
+  `xargs` on that command
 
 Related:
 
 * [20220112092321](../20220112092321/README.md) CLI IO Schemes/Methods
-* [20220112093437](../20220112093437/README.md) Unix Filter IO Scheme 
+* [20220112093437](../20220112093437/README.md) Unix Filter IO Scheme  
 
 
 References:
