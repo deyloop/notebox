@@ -61,6 +61,8 @@ Arg 2: arg21 arg22
 Arg 3: arg3
 ```
 
+---
+
 * `"$*"` ignores quotes in the argument list,
 * `"$*"` treats the whole argument list as a single concatenated string
 
