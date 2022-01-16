@@ -71,6 +71,8 @@ and
 * `"$@"` treats quoted arguments to be a single argument
 * `"$@"` is an array of strings
 
+---
+
 Reference:
 
 * `man bash`
