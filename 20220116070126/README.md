@@ -63,7 +63,9 @@ Arg 3: arg3
 
 * `"$*"` ignores quotes in the argument list,
 * `"$*"` treats the whole argument list as a single concatenated string
+
 and
+
 * `"$@"` treats quoted arguments to be a single argument
 * `"$@"` is an array of strings
 
