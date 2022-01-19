@@ -58,6 +58,11 @@ may have your own changes made locally, you can
 
 ---
 
+Related:
+
+* [20220119070922](../20220119070922/README.md) Compare versions of file from Different Branches
+* [20220119071757](../20220119071757/README.md) Replace file with version from another branch
+
 Tags:
 
     #permanent-note #version-control #collaboration #team-work
