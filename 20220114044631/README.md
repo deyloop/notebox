@@ -14,10 +14,11 @@ git clone git@github.com/deyloop/notebox
    that represent a subcommand. For example, they can follow the
    `x.subcommandA`.
 
-   That is, starting sub command function names with an x, followed by a `.` and then the subcommand name, `subcommandA` in the above example
+   That is, starting sub command function names with an x, followed by a
+   `.` and then the subcommand name, `subcommandA` in the above example
 
 1. Use the following code to gather a list of all sub-commands dynamically:
-   
+
     ```bash
     # Obtain all subcommands
     while IFS= read -r line; do
@@ -27,11 +28,15 @@ git clone git@github.com/deyloop/notebox
     mapfile -t COMMANDS < <(LC_COLLATE=C sort < <(printf "%s\n" "${COMMANDS[@]}"))
     ```
 
-    Explaination:
-    * `declare -F` will produce a newline delimited list of all Bash functions declared.
-    * Functions that do not follow the naming convention specified above are ignored.
+    Explanation:
+    * `declare -F` will produce a newline delimited list of all Bash
+      functions declared.
+    * Functions that do not follow the naming convention specified above
+      are ignored.
     * The functions that do follow the convention are added to `COMMANDS`
     * The function names are sorted and put into `COMMANDS`
+
+---
 
 Related:
 
