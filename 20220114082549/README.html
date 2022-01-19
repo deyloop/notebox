@@ -1,0 +1,17 @@
+<h1 id="maintain-a-local-git-repository-even-if-the-rest-of-your-team-does-not">Maintain a local <code>git</code> Repository, Even if the rest of your Team does not</h1>
+<p>When working in a collaborative project where part of your team is either not familiar with Version Control Systems like <code>git</code> or they refuse to use such tools for some reason, it can be a hassle to incorporate changes made by other team members into the copy of files that you are working on.</p>
+<p>Maintaining a <code>git</code> repository of the files at your end helps in collaboration even in this case.</p>
+<p>I use the following set of branches: * <code>upstream</code> - upstream changes are added here. This branch’s history will reflect just the upstream changes, which is sometimes useful. * <code>integration/clean</code> - This branch is where I clean and reformat the files received from upstream. Kind of like a merging point of the upstream files and the files I am working with. * <code>integration/IO</code> - This is the branch that will contain my changes. Name this what you want. * <code>main</code> - stable branch to contain tagged releases.</p>
+<p>When upstream changes are to be merged with your local version, which may have your own changes made locally, you can</p>
+<ol type="1">
+<li><p>Add the upstream changes to <code>upstream</code> via copy paste.</p></li>
+<li><p>Switch to <code>integration/clean</code>, then merge <code>upstream</code> into the current branch. (I prefer using a <code>--no-ff</code> merge to keep histories separate.)</p>
+<ul>
+<li><p>If a merge is messy, you can also replace a file on the current branch with a version from the <code>upstream</code> branch completely without questions using</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode sh"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> checkout upstream <span class="at">--</span> <span class="op">&lt;</span>filename<span class="op">&gt;</span></span></code></pre></div></li>
+<li><p>You can also open up a diff for the file you are editing against the same file from a different branch (like <code>integration/IO</code> to refer to your own additions) by using</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode sh"><code class="sourceCode bash"></code></pre></div></li>
+</ul></li>
+</ol>
+<p>Tags:</p>
+<pre><code>#permanent-note #version-control #collaboration #team-work</code></pre>
