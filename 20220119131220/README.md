@@ -2,7 +2,7 @@
 
 On Github by @olih:
 
-* <./jq-cheetsheet.md>
+* Local Copy [Here](./jq-cheetsheet.md)
 
 
 ---
