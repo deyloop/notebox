@@ -14,7 +14,7 @@ that I created.
 
 Related:
   
-  * `nb` tool: <https://github.com/deyloop/dot/blob/main/scripts/nb>
+  * `nb` tool: <https://github.com/deyloop/cmd-notebox>
 
 
 
