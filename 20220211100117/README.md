@@ -39,9 +39,13 @@ above questions.
 
 Take the most likely case and act acording to it.
 
+---
+
 References:
 
 * An answer on `r/Stoicism`
 <https://www.reddit.com/r/Stoicism/comments/sp7cd6/how_to_not_become_reactive/hwdjif5?utm_medium=android_app&utm_source=share&context=3>
+
+---
 
     #philosophy
