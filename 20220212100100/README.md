@@ -3,14 +3,16 @@
 VimScript has the following variable scopes, denoted by a corresponding
 prifix letter:
 
-|Scope       |Prefix           |Purpose                                        |
-|:----------:|:---------------:|----------------------------------------------:|
-|global      |`g:` or no prefix|                                               |
-|buffer-local|`b:`             |                Separate values between buffers|
-|window-local|`w:`             |       Separate values between winodows(splits)|
-|tab-local   |`t:`             |           Separate values between tabs (views)|
-|script-local|`s:`             |Variable accessible only within the script file|
-|built-in    |`v:`             |                       Variables built into Vim|
+|Scope                    |Prefix      |Purpose                                |
+|:-----------------------:|:----------:|--------------------------------------:|
+|global                   |`g:` or none|                                       |
+|buffer-local             |`b:`        |        Separate values between buffers|
+|window-local             |`w:`        |Separate values between windows(splits)|
+|tab-local                |`t:`        |   Separate values between tabs (views)|
+|script-local             |`s:`        | accessible only within the script file|
+|funtion-locat            |`l:`        |           Local variables in functions|
+|function-formal parameter|`a:`        |              Access funtion parameters|
+|built-in                 |`v:`        |               Variables built into Vim|
 
 ---
 
