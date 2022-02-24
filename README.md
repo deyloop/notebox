@@ -9,8 +9,7 @@ they happen.
 
 Hopefully this repo eventually reflects all my knowledge and acts as a second brain.
 
-It's convenient to work with this repo with the `nb` tool (see related below) 
-that I created.
+It's convenient to work with this repo with the `nb` tool (see related below).
 
 Related:
   
