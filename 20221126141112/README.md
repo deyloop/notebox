@@ -14,3 +14,7 @@ filename:keg$
 ```
 
 The above should show KEG repos as the top results
+
+Or just follow this link
+
+* <https://github.com/search?q=filename%3Akeg%24>
