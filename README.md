@@ -11,6 +11,8 @@ Hopefully this repo eventually reflects all my knowledge and acts as a second br
 
 It's convenient to work with this repo with the `nb` tool (see related below).
 
+All Notes are [indexed](/dex/all.md)
+
 Related:
   
   * `nb` tool: <https://github.com/deyloop/cmd-notebox>
