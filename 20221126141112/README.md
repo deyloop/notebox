@@ -17,4 +17,4 @@ The above should show KEG repos as the top results
 
 Or just follow this link
 
-* <https://github.com/search?q=filename%3Akeg%24>
+* <https://github.com/search?q=filename%3A%5Ekeg%24&type=code>
