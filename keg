@@ -1,0 +1,13 @@
+updated: '2022-11-26 12:11:34Z'
+kegv: 2023-01
+title: KEG notebox for deyloop
+url: git@github.com:deyloop/notebox.git
+creator: https://github.com/deyloop
+state: living
+summary: My name is deyloop and this is a KEG node containing my everyday notes. This
+  notebox vaguely follows the **zettelkasten** method
+indexes:
+  - id: dex/latest.md
+    summary: last changes
+  - id: dex/all.md
+    summary: all nodes, listed in order of creation
