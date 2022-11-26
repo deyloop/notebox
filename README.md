@@ -21,7 +21,7 @@ It's convenient to work with this repo with the `nb` tool[^1].
 
 ---
 
-[^1]`nb` tool: <https://github.com/deyloop/cmd-notebox>
+[^1]: `nb` tool: <https://github.com/deyloop/cmd-notebox>
 
 
 
