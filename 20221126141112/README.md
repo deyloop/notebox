@@ -7,6 +7,8 @@ the KEG specification.
 Checking for specification conformance is a second step, but the first
 step would be to find such repos
 
+Enter the following in the Github Search field and "search all of Github"
+
 ```
 filename:keg$
 ```
