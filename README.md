@@ -4,6 +4,7 @@ Rendered at <https://deyloop.github.io/notebox>
 
 **Index**
 
+* [latest](/dex/latest.md) - All notes, with latest changes on the top
 * [all](/dex/all.md) - All notes, sorted by id
 
 **About**
