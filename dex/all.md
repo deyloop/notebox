@@ -1,3 +1,4 @@
+* [Mindfully Browsing YouTube](../20221126161114/README.md)
 * [Searching for KEG repositories on Github](../20221126141112/README.md)
 * [SQL CROSS JOIN vs Multiple tables in FROM clause in SELECT](../20220223053436/README.md)
 * [Github: Close Issues from commit messages](../20220212103109/README.md)

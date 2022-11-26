@@ -1,3 +1,4 @@
+* 2022-11-26 16:18:34Z [Mindfully Browsing YouTube](../20221126161114/README.md)
 * 2022-11-26 14:49:48Z [Searching for KEG repositories on Github](../20221126141112/README.md)
 * 2022-11-26 09:19:24Z [Controling Emotional Outbursts](../20220211100117/README.md)
 * 2022-06-12 08:08:24Z [SQL CROSS JOIN vs Multiple tables in FROM clause in SELECT](../20220223053436/README.md)
