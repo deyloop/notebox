@@ -1,5 +1,5 @@
-* 2022-11-27 07:26:04Z [Sources of emotional stress](../20221127070155/README.md)
-* 2022-11-27 06:50:55Z [Anxiety and Stress - Udemy - Chris Croft, 2020](../20221127062104/README.md)
+* 2022-11-27 09:07:06Z [Anxiety and Stress - Udemy - Chris Croft, 2020](../20221127062104/README.md)
+* 2022-11-27 09:03:47Z [Sources of emotional stress](../20221127070155/README.md)
 * 2022-11-26 16:48:02Z [Searching for KEG repositories on Github](../20221126141112/README.md)
 * 2022-11-26 16:18:34Z [Mindfully Browsing YouTube](../20221126161114/README.md)
 * 2022-11-26 09:19:24Z [Controling Emotional Outbursts](../20220211100117/README.md)
