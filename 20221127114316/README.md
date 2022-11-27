@@ -33,4 +33,6 @@ Explaination:
 * The first two `script` tags enable MathJax support for all content on
   the rendered site.
 * The last script section makes it so that inline math can use `$` to
-  demarcate themselves. This is not enabled by default
+  demarcate themselves. This is not enabled by default[^1]
+
+[^1]: [20221127122723](../20221127122723/README.md) MathJax: Tex and LaTeX Math delimiters
