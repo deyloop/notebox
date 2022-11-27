@@ -1,4 +1,4 @@
-* 2022-11-27 12:34:35Z [Enabling MathJax support on Github pages](../20221127114316/README.md)
+* 2022-11-27 12:38:03Z [Enabling MathJax support on Github pages](../20221127114316/README.md)
 * 2022-11-27 12:33:09Z [MathJax: Tex and LaTeX Math delimiters](../20221127122723/README.md)
 * 2022-11-27 09:09:19Z [Anxiety and Stress - Udemy - Chris Croft, 2020](../20221127062104/README.md)
 * 2022-11-27 09:03:47Z [Sources of emotional stress](../20221127070155/README.md)
