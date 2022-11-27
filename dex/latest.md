@@ -1,3 +1,4 @@
+* 2022-11-27 11:54:43Z [Enabling MathJax support on Github pages](../20221127114316/README.md)
 * 2022-11-27 09:09:19Z [Anxiety and Stress - Udemy - Chris Croft, 2020](../20221127062104/README.md)
 * 2022-11-27 09:03:47Z [Sources of emotional stress](../20221127070155/README.md)
 * 2022-11-26 16:48:02Z [Searching for KEG repositories on Github](../20221126141112/README.md)

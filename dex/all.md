@@ -1,3 +1,4 @@
+* [Enabling MathJax support on Github pages](../20221127114316/README.md)
 * [Sources of emotional stress](../20221127070155/README.md)
 * [Anxiety and Stress - Udemy - Chris Croft, 2020](../20221127062104/README.md)
 * [Mindfully Browsing YouTube](../20221126161114/README.md)
