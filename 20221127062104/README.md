@@ -50,4 +50,4 @@ Section 4 - Coping Mechanisms
 * [S4-29] Mental Control
 * [S4-30] Aversion Therapy
 
-
+    #bib
