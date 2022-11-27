@@ -1,3 +1,4 @@
+* 2022-11-27 15:31:24Z [Difference between `$@` and `$*`](../20220116070126/README.md)
 * 2022-11-27 12:40:46Z [Anxiety and Stress - Udemy - Chris Croft, 2020](../20221127062104/README.md)
 * 2022-11-27 12:38:03Z [Enabling MathJax support on Github pages](../20221127114316/README.md)
 * 2022-11-27 12:33:09Z [MathJax: Tex and LaTeX Math delimiters](../20221127122723/README.md)
@@ -18,7 +19,6 @@
 * 2022-01-19 07:23:13Z [Replace file with version from another branch](../20220119071757/README.md)
 * 2022-01-19 07:17:17Z [Compare versions of file from Different Branches](../20220119070922/README.md)
 * 2022-01-16 14:11:52Z ["Are We _ Yet" Pages for Rust](../20220116141048/README.md)
-* 2022-01-16 07:51:43Z [Difference between \$@ and \$*](../20220116070126/README.md)
 * 2022-01-14 11:07:59Z [Breaking up Long lines in Python with Parenthesis](../20220114061829/README.md)
 * 2022-01-14 07:40:46Z [Adding filter capabilities to any Bash function](../20220112095121/README.md)
 * 2022-01-14 05:39:52Z [Shell Pattern Matching](../20220114052639/README.md)

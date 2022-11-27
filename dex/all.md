@@ -15,7 +15,7 @@
 * [Replace file with version from another branch](../20220119071757/README.md)
 * [Compare versions of file from Different Branches](../20220119070922/README.md)
 * ["Are We _ Yet" Pages for Rust](../20220116141048/README.md)
-* [Difference between \$@ and \$*](../20220116070126/README.md)
+* [Difference between `$@` and `$*`](../20220116070126/README.md)
 * [Maintain a local `git` Repository, Even if the rest of your Team does not](../20220114082549/README.md)
 * [Breaking up Long lines in Python with Parenthesis](../20220114061829/README.md)
 * [Bash Case Statement](../20220114053301/README.md)

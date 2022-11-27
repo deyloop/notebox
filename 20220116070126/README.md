@@ -1,4 +1,4 @@
-# Difference between \$@ and \$*
+# Difference between `$@` and `$*`
 
 When in double quotes:
 * `"$@"` expands to `"$1" "$2" "$3" ...`
