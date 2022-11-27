@@ -6,6 +6,7 @@ Rendered at <https://deyloop.github.io/notebox>
 
 * [latest](/dex/latest.md) - All notes, with latest changes on the top
 * [all](/dex/all.md) - All notes, sorted by id
+* [bibliography](bib/README.md) - Sources of my knowledge, excepts, sorted in order of author name
 
 **About**
 
