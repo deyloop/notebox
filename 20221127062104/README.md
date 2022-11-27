@@ -19,7 +19,6 @@ Notes:
 Section 2 - Understanding Anxiety
 
 * [S2-3] Sources of stress [20221127070155](../20221127070155/README.md)
-
 * [S2-4] Signs of Anxiety
 * [S2-5] Reasons for Anxiety as an emotion
 * [S2-6] Personality Drivers
