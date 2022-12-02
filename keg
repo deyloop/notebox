@@ -1,11 +1,10 @@
-updated: '2022-11-27 15:31:26Z'
+updated: '2022-12-02 07:11:11Z'
 kegv: 2023-01
 title: KEG notebox for deyloop
 url: git@github.com:deyloop/notebox.git
 creator: git@github.com:deyloop/notebox.git
 state: living
-summary: My name is deyloop and this is a KEG node containing my everyday notes. This
-  notebox vaguely follows the **zettelkasten** method
+summary: My name is deyloop and this is a KEG node containing my everyday notes. This notebox vaguely follows the **zettelkasten** method
 indexes:
   - id: dex/latest.md
     summary: last changes
