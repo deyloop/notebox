@@ -1,3 +1,4 @@
+* [Components of a Zettelkasten](../20221205190051/README.md)
 * [Niklas Luhmann, Communicating with slip boxes - An Empirical Account](../20221205163326/README.md)
 * [Incremental Integer node ids for KEG nodes](../20221202143346/README.md)
 * [isosec as KEG node identifier](../20221202135423/README.md)
