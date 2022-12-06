@@ -4,7 +4,7 @@
 
 Notes:
 
-* [I-3] [It is impossible to think about complex topics without writing]
+* [I-3] [Writing is required for complex thought formation](../20221206144641/README.md)
 * [II-1] [Components of a Zettelkasten](../20221205190051/README.md)
-* 
+
 
