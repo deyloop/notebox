@@ -1,6 +1,6 @@
-* 2022-12-06 18:08:00Z [Organizing notes in a Zettelkasten](../20221206175846/README.md)
+* 2022-12-06 18:09:43Z [Niklas Luhmann, Communicating with slip boxes - An Empirical Account](../20221205163326/README.md)
+* 2022-12-06 18:09:14Z [Organizing notes in a Zettelkasten](../20221206175846/README.md)
 * 2022-12-06 15:12:31Z [Writing is essential for thinking deeply](../20221206144641/README.md)
-* 2022-12-06 15:10:58Z [Niklas Luhmann, Communicating with slip boxes - An Empirical Account](../20221205163326/README.md)
 * 2022-12-05 19:23:20Z [Components of a Zettelkasten](../20221205190051/README.md)
 * 2022-12-02 14:45:38Z [Incremental Integer node ids for KEG nodes](../20221202143346/README.md)
 * 2022-12-02 14:31:18Z [Must listen to rock and scream when making a syscall](../20221202070150/README.md)
