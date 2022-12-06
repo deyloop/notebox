@@ -12,4 +12,4 @@ This leads either
 
 Luhmann chooses to use the latter. Hence, a Zettelkasten may contain notes on any and all topics without restrictions.
 
-[^1]: [Niklas Luhmann, Communicating with slip boxes - An Empirical Account](../20221205163326/README.md), I-5
+[^1]: [Niklas Luhmann, Communicating with slip boxes - An Empirical Account](../20221205163326/), I-5
