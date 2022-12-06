@@ -1,3 +1,4 @@
+* [Writing is required for complex thought formation](../20221206144641/README.md)
 * [Components of a Zettelkasten](../20221205190051/README.md)
 * [Niklas Luhmann, Communicating with slip boxes - An Empirical Account](../20221205163326/README.md)
 * [Incremental Integer node ids for KEG nodes](../20221202143346/README.md)

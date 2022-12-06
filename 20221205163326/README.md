@@ -4,6 +4,7 @@
 
 Notes:
 
-*  [Components of a Zettelkasten](../20221205190051/README.md)
-
+* [I-3] [It is impossible to think about complex topics without writing]
+* [II-1] [Components of a Zettelkasten](../20221205190051/README.md)
+* 
 
