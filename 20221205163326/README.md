@@ -4,6 +4,6 @@
 
 Notes:
 
-
+*  [Components of a Zettelkasten](../20221205190051/README.md)
 
 
