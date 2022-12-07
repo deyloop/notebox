@@ -4,5 +4,5 @@
 
 Notes
 
-* Carl Newport's Q/E/C note-taking
+* [Carl Newport's Q/E/C note-taking](../20221207181856/README.md)
 * Zettelkasten Compass for linking notes
