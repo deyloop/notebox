@@ -1,3 +1,4 @@
+* [Zettelkasten Compass](../20221207182726/README.md)
 * [Carl Newport's Q/E/C note-taking](../20221207181856/README.md)
 * [Vicky Zhao [BEEAMP], How To Take Smart Notes (3 methods no one's talking about), Youtube](../20221207180410/README.md)
 * [SSH bash session is not login shell](../20221207123630/README.md)

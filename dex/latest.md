@@ -1,3 +1,4 @@
+* 2022-12-07 18:35:28Z [Zettelkasten Compass](../20221207182726/README.md)
 * 2022-12-07 18:27:12Z [Vicky Zhao [BEEAMP], How To Take Smart Notes (3 methods no one's talking about), Youtube](../20221207180410/README.md)
 * 2022-12-07 18:26:01Z [Carl Newport's Q/E/C note-taking](../20221207181856/README.md)
 * 2022-12-07 18:10:06Z [SSH bash session is not login shell](../20221207123630/README.md)
