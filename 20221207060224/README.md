@@ -9,4 +9,4 @@ This act of being forced to look for similar ideas to new ones helps do two thin
 * Prevent duplication of the same idea.
 * Force one to enrich new notes with connections to existing notes
 
-Digital variations on the Zettelkasten method, like what I use, should enforce linking to similar notes by other means, in order to be affective.
+Digital variations on the Zettelkasten method, like what I use, should enforce linking to similar notes, in order to be effective.
