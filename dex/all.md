@@ -1,3 +1,4 @@
+* [SSH bash session is not login shell](../20221207123630/README.md)
 * [Preventing duplication of ideas in a Zettelkasten](../20221207060224/README.md)
 * [Tim Berners-Lee, ENQUIRE v1.1 manual](../20221207055110/README.md)
 * [Organizing notes in a Zettelkasten](../20221206175846/README.md)
