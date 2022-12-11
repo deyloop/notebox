@@ -1,3 +1,4 @@
+* 2022-12-11 19:07:36Z [KEG Follow List](../20221211190455/README.md)
 * 2022-12-11 10:25:05Z [Wormeli - Summarization in Any Subject](../20221211090842/README.md)
 * 2022-12-07 18:38:29Z [Vicky Zhao [BEEAMP], How To Take Smart Notes (3 methods no one's talking about), Youtube](../20221207180410/README.md)
 * 2022-12-07 18:37:58Z [Zettelkasten Compass](../20221207182726/README.md)

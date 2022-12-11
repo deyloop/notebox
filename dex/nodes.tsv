@@ -1,0 +1,65 @@
+20210813174609	2021-08-21 15:20:52Z	Inspiration does not mean Instantiation
+20210821162257	2021-08-21 16:59:37Z	Making XMonad Conform to the XDG Base Directory Specification
+20210821234105	2021-08-23 23:54:14Z	Order of Startup Files for `bash`
+20210825211454	2021-08-25 22:28:48Z	Fixing Windows Boot-loader not showing up in `grub`
+20210830175435	2021-08-30 18:04:00Z	Enabling Bluetooth on EndevourOS/Arch
+20210903053424	2022-02-12 11:14:08Z	Creating a Swap File in Linux
+20210906024622	2021-09-07 01:16:43Z	`timedatectl` to control system time on linux
+20210906031343	2021-09-06 03:37:08Z	Setting up Printer and Scanning in Linux
+20210907011058	2021-09-07 01:15:43Z	`reflector` for Updating `pacman` mirror-list
+20210914062938	2021-09-14 07:45:39Z	Pretty Good Privacy (PGP)
+20210914064746	2021-09-14 07:58:17Z	Creating a GPG key
+20210914072507	2021-09-26 12:40:46Z	Sign git commits with GPG
+20210914100148	2021-09-14 10:09:15Z	Concurrent Downloads with `pacman`
+20210926155928	2021-09-26 16:05:12Z	`git add --patch`
+20210928082519	2021-09-28 08:28:30Z	Disable `clang-format` for sections
+20220101102003	2022-01-01 10:48:45Z	X Clipboards
+20220103135322	2022-01-03 14:05:07Z	Transferring GPG Keys to a new machine
+20220110063336	2022-01-12 09:03:59Z	Copying to Clipboard from WSL2
+20220112092321	2022-01-12 09:48:36Z	CLI IO Schemes/Methods
+20220112093437	2022-01-12 10:46:29Z	Unix Filter IO Scheme
+20220112095121	2022-01-14 07:40:46Z	Adding filter capabilities to any Bash function
+20220113061309	2022-01-13 07:52:40Z	Increase timeout for GPG passphrase cache
+20220113084600	2022-01-13 13:14:37Z	Programmable Tab Completion in Bash
+20220113092454	2022-01-14 05:09:11Z	Tab Completion for Bash Script Sub-Commands
+20220113102838	2022-01-13 11:42:38Z	Markdown Hyperlinks
+20220113144924	2022-01-13 14:58:05Z	How I Remap my Keys
+20220113165346	2022-01-13 16:57:21Z	Types of Regular Expression Languages
+20220114044631	2022-01-19 07:49:24Z	Bash Construct List of Sub-Commands
+20220114052639	2022-01-14 05:39:52Z	Shell Pattern Matching
+20220114053301	2022-01-14 05:38:27Z	Bash Case Statement
+20220114061829	2022-01-14 11:07:59Z	Breaking up Long lines in Python with Parenthesis
+20220114082549	2022-01-19 07:24:38Z	Maintain a local `git` Repository, Even if the rest of your Team does not
+20220116070126	2022-11-27 15:31:24Z	Difference between `$@` and `$*`
+20220116141048	2022-01-16 14:11:52Z	"Are We _ Yet" Pages for Rust
+20220119070922	2022-01-19 07:17:17Z	Compare versions of file from Different Branches
+20220119071757	2022-01-19 07:23:13Z	Replace file with version from another branch
+20220119123753	2022-01-19 12:43:36Z	Use Project Issues for TODO items and features
+20220119124440	2022-01-19 13:10:56Z	CRUD with `jq`
+20220119131220	2022-01-20 11:19:27Z	`jq` Cheat-sheet
+20220121100819	2022-01-21 10:11:14Z	NGinX and Django Explained
+20220211100117	2022-11-26 09:19:24Z	Controling Emotional Outbursts
+20220212100100	2022-02-12 10:30:22Z	Vim variable scopes
+20220212103109	2022-02-12 10:39:26Z	Github: Close Issues from commit messages
+20220223053436	2022-06-12 08:08:24Z	SQL CROSS JOIN vs Multiple tables in FROM clause in SELECT
+20221126141112	2022-11-26 16:48:02Z	Searching for KEG repositories on Github
+20221126161114	2022-11-26 16:18:34Z	Mindfully Browsing YouTube
+20221127062104	2022-11-27 12:40:46Z	Anxiety and Stress - Udemy - Chris Croft, 2020
+20221127070155	2022-11-27 09:03:47Z	Sources of emotional stress
+20221127114316	2022-11-27 12:38:03Z	Enabling MathJax support on Github pages
+20221127122723	2022-11-27 12:33:09Z	MathJax: Tex and LaTeX Math delimiters
+20221202070150	2022-12-02 14:31:18Z	Must listen to rock and scream when making a syscall
+20221202135423	2022-12-02 14:31:18Z	isosec as KEG node identifier
+20221202143346	2022-12-02 14:45:38Z	Incremental Integer node ids for KEG nodes
+20221205163326	2022-12-06 18:13:28Z	Niklas Luhmann, Communicating with slip boxes - An Empirical Account
+20221205190051	2022-12-05 19:23:20Z	Components of a Zettelkasten
+20221206144641	2022-12-06 15:12:31Z	Writing is essential for thinking deeply
+20221206175846	2022-12-06 18:13:38Z	Organizing notes in a Zettelkasten
+20221207055110	2022-12-07 05:55:45Z	Tim Berners-Lee, ENQUIRE v1.1 manual
+20221207060224	2022-12-07 06:29:21Z	Preventing duplication of ideas in a Zettelkasten
+20221207123630	2022-12-07 18:10:06Z	SSH bash session is not login shell
+20221207180410	2022-12-07 18:38:29Z	Vicky Zhao [BEEAMP], How To Take Smart Notes (3 methods no one's talking about), Youtube
+20221207181856	2022-12-07 18:26:01Z	Carl Newport's Q/E/C note-taking
+20221207182726	2022-12-07 18:37:58Z	Zettelkasten Compass
+20221211090842	2022-12-11 10:25:05Z	Wormeli - Summarization in Any Subject
+20221211190455	2022-12-11 19:07:36Z	KEG Follow List

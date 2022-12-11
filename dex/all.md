@@ -1,3 +1,4 @@
+* [KEG Follow List](../20221211190455/README.md)
 * [Wormeli - Summarization in Any Subject](../20221211090842/README.md)
 * [Zettelkasten Compass](../20221207182726/README.md)
 * [Carl Newport's Q/E/C note-taking](../20221207181856/README.md)
